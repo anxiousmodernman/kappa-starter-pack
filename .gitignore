@@ -1,0 +1,4 @@
+
+# ignore ksp subdirectory (the python3 virtualenv)
+ksp
+
